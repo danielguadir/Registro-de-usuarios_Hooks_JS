@@ -20,8 +20,8 @@ Contraseña
 
 Cuando el usuario hace clic en el botón "Register", se activa una función que:
 
-Valida los datos ingresados (usansdo Context y sett).
+-Valida los datos ingresados (usansdo Context y sett).
 
-Simula o realiza una petición a una API para registrar el usuario.
+-Simula o realiza una petición a una API para registrar el usuario.
 
-Muestra un mensaje de confirmación o alerta que indica si el registro fue exitoso
+-Muestra un mensaje de confirmación o alerta que indica si el registro fue exitoso
