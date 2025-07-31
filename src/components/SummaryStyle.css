@@ -1,0 +1,15 @@
+.container-summary td{
+    border:1px solid #DDD;
+}
+.containerForm{
+    border:1px solid #DDD;
+    width: 100vh;
+    text-align: center;
+}
+.table-headerform{
+    text-align: center;
+}
+.table-bodyform{
+     width: 100vh;
+    text-align: center;
+}
