@@ -6,4 +6,4 @@ Aplicación creada con React- Vite + Context-Sett para registrar usuarios .
 ![Vista previa](./public/reviuw.png)
 
 
-👉 [Haz clic aquí para ver la app funcionando](https://api-search-placeholder.vercel.app/)
+👉 [Haz clic aquí para ver la app funcionando](https://registro-de-usuarios-hooks-js.vercel.app/)
